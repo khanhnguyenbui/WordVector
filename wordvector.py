@@ -65,7 +65,7 @@ def buildingDictOfAWord(inputWord):
 
 dict1 = buildingDictOfAWord('Dog')
 
-dict2 = buildingDictOfAWord('Cat')
+dict2 = buildingDictOfAWord('King')
 dict3 = buildingDictOfAWord('Horse')
 dict4 = buildingDictOfAWord('Bird')
 dict5 = buildingDictOfAWord('Bear')
