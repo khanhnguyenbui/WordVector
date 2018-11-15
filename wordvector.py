@@ -65,9 +65,12 @@ def buildingDictOfAWord(inputWord):
 
 dict1 = buildingDictOfAWord('Dog')
 
-dict2 = buildingDictOfAWord('King')
+dict2 = buildingDictOfAWord('sincerely')
+
 dict3 = buildingDictOfAWord('Horse')
+
 dict4 = buildingDictOfAWord('Bird')
+
 dict5 = buildingDictOfAWord('Bear')
 
 # https://www.nytimes.com/2018/10/29/well/family/how-children-learn-to-recognize-faces.html?action=click&module=Discovery&pgtype=Homepage
